@@ -1,0 +1,10 @@
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\bin\Debug\ITD102POS.exe.config
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\bin\Debug\ITD102POS.exe
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\bin\Debug\ITD102POS.pdb
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.csproj.AssemblyReference.cache
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.Properties.Resources.resources
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.csproj.GenerateResource.cache
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.csproj.CoreCompileInputs.cache
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.exe
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.pdb
+C:\Users\komez\OneDrive\Desktop\CS_Projects\ITD102POS\ITD102POS\obj\Debug\ITD102POS.MainForm.resources

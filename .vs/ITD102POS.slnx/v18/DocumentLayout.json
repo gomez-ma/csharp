@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EF809C2-8F03-4AD4-AB32-8CE9525B8870}|ITD102POS\\ITD102POS.csproj|C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\itd102pos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF809C2-8F03-4AD4-AB32-8CE9525B8870}|ITD102POS\\ITD102POS.csproj|solutionrelative:itd102pos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EF809C2-8F03-4AD4-AB32-8CE9525B8870}|ITD102POS\\ITD102POS.csproj|c:\\users\\komez\\onedrive\\desktop\\cs_projects\\itd102pos\\itd102pos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EF809C2-8F03-4AD4-AB32-8CE9525B8870}|ITD102POS\\ITD102POS.csproj|solutionrelative:itd102pos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,13 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\ITD102POS\\MainForm.cs",
+              "RelativeDocumentMoniker": "ITD102POS\\MainForm.cs",
+              "ToolTip": "C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\ITD102POS\\MainForm.cs",
+              "RelativeToolTip": "ITD102POS\\MainForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAhwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T02:50:46.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\ITD102POS\\MainForm.cs",
               "RelativeDocumentMoniker": "ITD102POS\\MainForm.cs",
               "ToolTip": "C:\\Users\\komez\\OneDrive\\Desktop\\CS_Projects\\ITD102POS\\ITD102POS\\MainForm.cs [Design]",
               "RelativeToolTip": "ITD102POS\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T03:26:28.98Z",
+              "WhenOpened": "2026-11-25T02:48:24.51Z",
               "EditorCaption": " [Design]"
             }
           ]
